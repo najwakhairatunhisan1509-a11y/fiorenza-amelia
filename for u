@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Happy Birthday Dzaki 💙</title>
+    <style>
+        body {
+            background: linear-gradient(to right, #89f7fe, #66a6ff);
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            color: white;
+            padding: 30px;
+        }
+
+        .card {
+            background: rgba(0,0,0,0.3);
+            border-radius: 20px;
+            padding: 30px;
+            max-width: 600px;
+            margin: auto;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+        }
+
+        h1 {
+            font-size: 40px;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+
+        .btn {
+            background: white;
+            color: #66a6ff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 10px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+
+        .btn:hover {
+            background: #ddd;
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h1>🎉 Happy Birthday 🎉</h1>
+    <h2>Dzaki Jummayyil 💙</h2>
+
+    <p>
+        Hai kamu yang lahir di tahun 2008 😌✨<br><br>
+
+        Selamat ulang tahun yaa! 🥳  
+        Semoga panjang umur, sehat selalu, dan makin keren (walaupun sekarang juga udah 😎).<br><br>
+
+        Makasih ya udah hadir di dunia ini,  
+        aku senang kamu hadir di kehidupan aku… aku harap kita ga cuma sementara tapi kita selamanya,  
+      
+
+        Kamu itu kayak WiFi...  
+        kalau nggak ada, hidup jadi lemot (walaupun kadang ngeselin ya) 😤📶<br><br>
+
+        Semoga semua yang kamu impikan tercapai,  
+        dan semoga aku selalu ada di bagian cerita kamu 😊✨<br><br>
+
+        Jangan berubah ya (kecuali jadi lebih baik 😏)  
+        dan tetap jadi Dzaki yang aku kenal 💕<br><br>
+
+        Sekali lagi, happy birthday yaa! 🎂💙
+    </p>
+
+    <button class="btn" onclick="alert('Aku sayang kamu 💙')">
+        Klik ini 😆
+    </button>
+</div>
+
+</body>
+</html>
